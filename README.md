@@ -6,19 +6,19 @@ We designed and developed an image search engine using Hadoop Inverted Indexes a
 
 
 ## architecture
-[](screenshots/architecture.png)
+![](screenshots/architecture.png)
 
 ## mapreduce example
-[](screenshots/mapreduce.png)
+![](screenshots/mapreduce.png)
 
 ## ranking algorithm
-[](screenshots/ranking-algorithm.png)
+![](screenshots/ranking-algorithm.png)
 
 
 ## web app
 Search query: `Bear` mode: `Hadoop with Area Ranking`
-[](screenshots/web-app-1.png)
+![](screenshots/web-app-1.png)
 Search query: `Motorcycle` mode: `Hadoop with Area Ranking`
-[](screenshots/web-app-2.png)
+![](screenshots/web-app-2.png)
 Search query: `Motorcycle` mode: `Lucene with TF-IDF Ranking`
-[](screenshots/web-app-3.png)
+![](screenshots/web-app-3.png)
